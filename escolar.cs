@@ -1,0 +1,1 @@
+﻿Console.WriteLine(&quot;=== Calculadora Escolar === &quot;);
